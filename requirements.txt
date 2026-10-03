@@ -1,6 +1,6 @@
-tensorflow
-segmentation-models
+tensorflow==2.21.0
+segmentation-models==1.0.1
 opencv-python
 numpy
-matplotlib
 scikit-learn
+matplotlib
